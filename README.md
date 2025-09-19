@@ -1,5 +1,11 @@
 # Проектный менеджмент
 
+## Участники
+
+* [Путилин Максим](https://github.com/partickle)
+* [Овсянников Артем](https://github.com/artemmmov)
+* [Сапегин Павел](https://github.com/SapeginPavel)
+
 ## Документация
 
 * [Задание](https://docs.google.com/document/d/1Q8l5RhlGIIyGlMS1FUqiOi7738V1_m5aiaF-hrZtvgk/edit?tab=t.0#heading=h.8rfnw0sk066y)
